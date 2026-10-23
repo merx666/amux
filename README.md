@@ -1,3 +1,5 @@
+[![AgentShield Security](https://merx.help/badge/A+.svg)](https://merx.help/shield)
+
 <img src="site/github-header.svg" alt="amux: the agent control plane" width="1280"/>
 
 <p align="center">
